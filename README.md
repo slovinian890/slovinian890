@@ -1,7 +1,7 @@
 <h1 align="center">I'm Filip</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
 
-- 🔭 I’m currently working on **Billy**
+- 🔭 I’m currently working on **Bill Splitter**
 
 - 🌱 I’m currently learning **React Native, python and C++**
 
