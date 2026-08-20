@@ -1,7 +1,7 @@
 <h1 align="center">I'm Filip</h1>
 <h3 align="center">A passionate developer from Slovenia</h3>
 
-- 🔭 I’m currently working on **Bills Splitter** you can see it here billssplitter.com
+- 🔭 I’m currently working on **Bills Splitter** — you can see it here: [billssplitter.com](https://billssplitter.com)
 
 - 🌱 I’m currently learning **React Native, python and C++**
 
